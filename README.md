@@ -11,6 +11,4 @@
 图片2 :
 
 ​	![](https://github.com/whjlinyi/VideoAutoRename/blob/master/Img/2.jpg)
-如果你觉得还可以可以给作者买瓶水哦
 
-​	![](https://github.com/whjlinyi/VideoAutoRename/blob/master/Img/3.jpg)
