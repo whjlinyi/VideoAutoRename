@@ -14,5 +14,5 @@
 
 如果你觉得对你有小小的帮助 ,可以给作者买瓶水哦可爱(❁´◡`❁)
 
-​	![](https://github.com/whjlinyi/VideoAutoRename/blob/master/Img/2.jpg)
+​	<mg src="https://github.com/whjlinyi/VideoAutoRename/blob/master/Img/2.jpg" style="zoom:50%" />
 
