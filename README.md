@@ -7,10 +7,10 @@
 *********************************************************
 图片1 :
 
-​	![](https://github.com/whjlinyi/VideoAutoRename/blob/master/Img/1.jpg)
+​	![](https://github.com/whjlinyi/VideoAutoRename/blob/master/Img/1.png)
 
 图片2 :
 
-​	![](https://github.com/whjlinyi/VideoAutoRename/blob/master/Img/2.jpg)
+​	![](https://github.com/whjlinyi/VideoAutoRename/blob/master/Img/2.png)
 
 
