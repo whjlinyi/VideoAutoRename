@@ -72,8 +72,8 @@ def dorename(number):
         linename2 = re.sub("\\n","",str(linename2))
         if os.path.exists(linename1+getfile_name):
             print("匹配到:"+linename1+getfile_name + "  开始重命名")
-            os.rename(linename1+getfile_name , linename2+getfile_name)
-            print(linename1+getfile_name + "-->"+linename2+getfile_name)
+            os.rename(linename1+getfile_name , "["+linename2+"]"+getfile_name)
+            print(linename1+getfile_name + "-->"+"["+linename2+"]"+getfile_name)
         else:
             print("匹配:"+linename1+getfile_name + "  失败")
 if input("input Yes to rename:") == "Yes":
