@@ -9,8 +9,6 @@
 
 ​	![](https://github.com/whjlinyi/VideoAutoRename/blob/master/Img/1.png)
 
-图片2 :
 
-​	![](https://github.com/whjlinyi/VideoAutoRename/blob/master/Img/2.png)
 
 
